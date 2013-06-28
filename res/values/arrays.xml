@@ -1,0 +1,7 @@
+<resources>
+    <array name="languages">
+        <item>Chinese Simplified(zh-CN)</item>
+        <item>Japanese(ja)</item>
+        <item>English(en)</item>
+    </array>
+</resources>
